@@ -18,7 +18,6 @@ GameServer::~GameServer()
 
 void GameServer::RegisterEvent()
 {
-	// 注册事件处理器
 	eventHandlers[1] = std::make_shared<UserEventHandler>();
 	eventHandlers[2] = std::make_shared<UserEventHandler>();
 	eventHandlers[90] = std::make_shared<WorldEventHandler>();
@@ -156,11 +155,9 @@ void GameServer::OnRecvFromClient(ClientNode* Client, USHORT MsgID, BYTE* Body, 
 		return;
 	}
 
-	// 查找对应的事件处理器
 	auto it = eventHandlers.find(MsgID);
 	if (it != eventHandlers.end())
 	{
-		// 创建消息对象并交给事件处理器处理
 		Message message(MsgID, Body, BodyLen, pCacheUser, pCachePlayer);
 		it->second->HandleMessage(Client, message);
 	}
