@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\Message">
+      <UniqueIdentifier>{e836578f-0d57-43da-8998-c907b84fc11e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{364d269c-f454-4ba4-abae-fb3b335f50d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="oicq">
+      <UniqueIdentifier>{224e11f1-873f-441c-9b6b-5390e5b9ca95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Server">
+      <UniqueIdentifier>{e90dcf2b-1ed2-436c-a83b-2b9d27f3c4c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Server\QQServer">
+      <UniqueIdentifier>{fbd40076-b43e-4bb6-983c-71fe714792f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Server\GameServer">
+      <UniqueIdentifier>{d0be9c71-38ec-4291-9171-6225adfc17c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Message\EventHandler">
+      <UniqueIdentifier>{46362b0a-35fe-4c53-b8a6-2f080796a703}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Message\Event">
+      <UniqueIdentifier>{afb06563-80f4-445f-8ebe-92d8026a5540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Message\Event\User">
+      <UniqueIdentifier>{140522a3-fd81-43be-a6f7-0e276896aafd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Message\Event\World">
+      <UniqueIdentifier>{794d6477-3a89-40b8-b0e6-1bff067ea1d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Message\Event\Player">
+      <UniqueIdentifier>{98f34680-0216-45ff-8363-7017e8e64af7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\MySQL">
+      <UniqueIdentifier>{1d187e01-2e8d-4542-8dfc-631d489215a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\MySQL\Cache">
+      <UniqueIdentifier>{e8ce94ba-422d-4b9d-a535-8bbd1cfa6592}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="oicq\tea.c">
+      <Filter>oicq</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\Utils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="QQServer.cpp">
+      <Filter>源文件\Server\QQServer</Filter>
+    </ClCompile>
+    <ClCompile Include="GameServer.cpp">
+      <Filter>源文件\Server\GameServer</Filter>
+    </ClCompile>
+    <ClCompile Include="Message.cpp">
+      <Filter>源文件\Message</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>源文件\Message\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="EventGetUin.cpp">
+      <Filter>源文件\Message\Event\User</Filter>
+    </ClCompile>
+    <ClCompile Include="EventRegister.cpp">
+      <Filter>源文件\Message\Event\User</Filter>
+    </ClCompile>
+    <ClCompile Include="EventWorldInfo.cpp">
+      <Filter>源文件\Message\Event\World</Filter>
+    </ClCompile>
+    <ClCompile Include="EventChatRoomList.cpp">
+      <Filter>源文件\Message\Event\World</Filter>
+    </ClCompile>
+    <ClCompile Include="EventLogin.cpp">
+      <Filter>源文件\Message\Event\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="EventHandler.cpp">
+      <Filter>源文件\Message\EventHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="EventLogout.cpp">
+      <Filter>源文件\Message\Event\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="mMySQL.cpp">
+      <Filter>源文件\MySQL</Filter>
+    </ClCompile>
+    <ClCompile Include="CachePlayer.cpp">
+      <Filter>源文件\MySQL\Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="CacheUser.cpp">
+      <Filter>源文件\MySQL\Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="EventWorld.cpp">
+      <Filter>源文件\Message\Event\World</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="oicq\tea.h">
+      <Filter>oicq</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\Utils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="QQServer.h">
+      <Filter>源文件\Server\QQServer</Filter>
+    </ClInclude>
+    <ClInclude Include="GameServer.h">
+      <Filter>源文件\Server\GameServer</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>源文件\Message</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>源文件\Message\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="EventGetUin.h">
+      <Filter>源文件\Message\Event\User</Filter>
+    </ClInclude>
+    <ClInclude Include="EventRegister.h">
+      <Filter>源文件\Message\Event\User</Filter>
+    </ClInclude>
+    <ClInclude Include="EventWorldInfo.h">
+      <Filter>源文件\Message\Event\World</Filter>
+    </ClInclude>
+    <ClInclude Include="EventChatRoomList.h">
+      <Filter>源文件\Message\Event\World</Filter>
+    </ClInclude>
+    <ClInclude Include="EventLogin.h">
+      <Filter>源文件\Message\Event\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>源文件\Message\EventHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="EventLogout.h">
+      <Filter>源文件\Message\Event\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="mMySQL.h">
+      <Filter>源文件\MySQL</Filter>
+    </ClInclude>
+    <ClInclude Include="CachePlayer.h">
+      <Filter>源文件\MySQL\Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="CacheUser.h">
+      <Filter>源文件\MySQL\Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="EventWorld.h">
+      <Filter>源文件\Message\Event\World</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

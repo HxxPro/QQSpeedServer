@@ -1,0 +1,20 @@
+Server:
+  # 大区名
+  Name: "电信区"
+  # 外网IP地址
+  IP: "127.0.0.1"
+  # 外网端口
+  TcpPort: 27015
+  UdpPort: 27015
+  Bind:
+    # 绑定的IP地址
+    IP: "0.0.0.0"
+    # 绑定的端口
+    TcpPort: 27015
+    UdpPort: 27015
+QQServer: # for ZingSpeed
+  IP: "127.0.0.1"
+  TcpPort: 27016
+  Bind:
+    IP: "0.0.0.0"
+    TcpPort: 27016

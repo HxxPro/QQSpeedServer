@@ -1,0 +1,518 @@
+- StoneID: 21977 #效率宝珠LV1
+  ActiveCondVal1: 950
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 400
+  CoolTime: 20
+  GenResultVal1: 0
+- StoneID: 21978 #效率宝珠LV2
+  ActiveCondVal1: 900
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 500
+  CoolTime: 20
+  GenResultVal1: 0
+- StoneID: 21979 #效率宝珠LV3
+  ActiveCondVal1: 850
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 600
+  CoolTime: 20
+  GenResultVal1: 0
+- StoneID: 21980 #效率宝珠LV4
+  ActiveCondVal1: 800
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 700
+  CoolTime: 20
+  GenResultVal1: 0
+- StoneID: 21981 #效率宝珠LV5
+  ActiveCondVal1: 750
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 800
+  CoolTime: 20
+  GenResultVal1: 0
+- StoneID: 21982 #效率宝珠LV6
+  ActiveCondVal1: 700
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 900
+  CoolTime: 20
+  GenResultVal1: 0
+
+- StoneID: 21983 #重生宝珠LV1
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 30
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21984 #重生宝珠LV2
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 80
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21985 #重生宝珠LV3
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 130
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21986 #重生宝珠LV4
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 190
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21987 #重生宝珠LV5
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 290
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21988 #重生宝珠LV6
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 380
+  CoolTime: 10
+  GenResultVal1: 0
+
+- StoneID: 21989 #坚韧宝珠LV1
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 200
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21990 #坚韧宝珠LV2
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 300
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21991 #坚韧宝珠LV3
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 400
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21992 #坚韧宝珠LV4
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 600
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21993 #坚韧宝珠LV5
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 800
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21994 #坚韧宝珠LV6
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1000
+  CoolTime: 10
+  GenResultVal1: 0
+
+- StoneID: 21995 #苍天宝珠LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21996 #苍天宝珠LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21997 #苍天宝珠LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21998 #苍天宝珠LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21999 #苍天宝珠LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22000 #苍天宝珠LV6
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+
+- StoneID: 22001 #大地宝珠LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22002 #大地宝珠LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22003 #大地宝珠LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22004 #大地宝珠LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22005 #大地宝珠LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22006 #大地宝珠LV6
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+
+- StoneID: 22007 #无双宝珠LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22008 #无双宝珠LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22009 #无双宝珠LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22010 #无双宝珠LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22011 #无双宝珠LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22012 #无双宝珠LV6
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+
+- StoneID: 22013 #后发宝珠LV1
+  ActiveCondVal1: 200
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 1000
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22014 #后发宝珠LV2
+  ActiveCondVal1: 150
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 1000
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22015 #后发宝珠LV3
+  ActiveCondVal1: 120
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 1000
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22016 #后发宝珠LV4
+  ActiveCondVal1: 80
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 1000
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22017 #后发宝珠LV5
+  ActiveCondVal1: 40
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 1000
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22018 #后发宝珠LV6
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1000
+  CoolTime: 10
+  GenResultVal1: 0
+
+- StoneID: 22019 #愤怒宝珠LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22020 #愤怒宝珠LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22021 #愤怒宝珠LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22022 #愤怒宝珠LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22023 #愤怒宝珠LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22024 #愤怒宝珠LV6
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+
+
+- StoneID: 22025
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 100
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22026
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 150
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22027
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 200
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22028
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 250
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22029
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 9
+  ActiveSuccessProb: 300
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22030
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 11
+  ActiveSuccessProb: 350
+  CoolTime: 8
+  GenResultVal1: 0
+
+- StoneID: 22031
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 100
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22032
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 150
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22033
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 200
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22034
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 250
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22035
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 9
+  ActiveSuccessProb: 300
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22036
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 11
+  ActiveSuccessProb: 350
+  CoolTime: 8
+  GenResultVal1: 0
+
+- StoneID: 22037
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 40
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22038
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 70
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22039
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 110
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22040
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 160
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22041
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 220
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22042
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 290
+  CoolTime: 5
+  GenResultVal1: 0
+
+- StoneID: 22043
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 50
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22044
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 80
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22045
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 120
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22046
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 170
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22047
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 9
+  ActiveSuccessProb: 230
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22048
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 11
+  ActiveSuccessProb: 300
+  CoolTime: 10
+  GenResultVal1: 0
+
+- StoneID: 22055
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22056
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22057
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22058
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22059
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22060
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+
+- StoneID: 22061
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22062
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22063
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22064
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22065
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22066
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0

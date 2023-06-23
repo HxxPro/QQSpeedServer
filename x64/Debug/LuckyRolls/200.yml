@@ -1,0 +1,95 @@
+#ItemNum:中奖获得的数量
+#Type:类型
+#1-现金奖励(无图标)		#2-Q币奖励	#3-实物奖励(无图标)
+#4-点券		#5-消费券		#6-幸运币		#7-赛车
+#AvailPeriod:有效期单位
+#-1:永久 0:表示个数 大于0:表示小时数
+#Rate:几率
+#数值越小中奖的几率越小
+
+#需要注意
+#如果是点券/消费券/幸运币/Q币(飞车币)作为奖励的话
+#需要注意一下类型，其次是ItemNum
+#ID设置为0即可
+- ID: 10993
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 12720
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 13178
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 14959
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 112181
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 21080
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 21901
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 23007
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 24859
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 26953
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 27593
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 117938
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+- ID: 117939
+  ItemNum: 1
+  Type: 7
+  AvailPeriod: -1
+  Rate: 1
+
+#这里分别是点券、消费券、幸运币的奖励
+- ID: 0
+  ItemNum: 50
+  Type: 4
+  AvailPeriod: -1
+  Rate: 1000
+- ID: 0
+  ItemNum: 50
+  Type: 5
+  AvailPeriod: -1
+  Rate: 1000
+- ID: 0
+  ItemNum: 50
+  Type: 6
+  AvailPeriod: -1
+  Rate: 1000

@@ -1,0 +1,133 @@
+KartID: 119059
+PhysInfo:
+  - PID: 1
+    AffectID: 100
+    Param: 6000
+    LifeTime: 3200
+  - PID: 2001
+    AffectID: 100
+    Param: 6000
+    LifeTime: 650
+  - PID: 2002
+    AffectID: 100
+    Param: 6000
+    LifeTime: 4100
+  - PID: 99999
+    AffectID: 100
+    Param: 83000
+    LifeTime: 5000
+CompensateParam:
+  - Percent: 2
+    Value: 1010
+  - Percent: 10
+    Value: 1010
+  - Percent: 20
+    Value: 1020
+  - Percent: 60
+    Value: 1080
+  - Percent: 120
+    Value: 1160
+  - Percent: 240
+    Value: 1200
+  - Percent: 900
+    Value: 1200
+CollisionBoxParam:
+  BoxLength: 300
+  BoxWidth: 170
+  BoxHeight: 240
+  AdjustOffset: 230
+  AdjustPickGap: 200
+  AdjustRemoteOffset: 180
+  AdjustBevelOffset: 200
+  ControllerOffset: -30
+CarToCarCollisionParam:
+  CollisionRadius: 300
+  CollisionLength: 300
+  CollisionWidth: 200
+  CollisionHeight: 250
+  CollisionLostCtrlTime: 100000
+BaseTurnRate: 1129
+VolatileTurnRate: 1236
+MaxTurnSpeed: 13121
+MinTurnSpeed: 6131
+MaxAccuTime: 500
+BaseAccuRate: 100
+MaxAffectSpeed: 19900
+Gravity: -13450
+AdditionalLocalZSpeed: -3000
+StartVec: 18000
+EndVecFist: 50000
+EndVecSecon: 16000
+DirKeyForce: 1500
+DirKeyTwist: 5900
+BannerTwist: 4200
+BannerKeyTwist: 6000
+BannerVecForce: 6000
+BannerHeadForce: 5500
+SlidFricForce: 2750
+RollFricForce: 1000
+StartWec: 800
+MaxWec: 3500
+SuaiJianTwist: 5000
+DirUpKeyForce: 10200
+AccelStatus: [1200,1200,800,300,2000,1900]
+ForwardAccel:
+  - Key: 0
+    Value: 4215
+  - Key: 5000
+    Value: 4400
+  - Key: 5700
+    Value: 5820
+  - Key: 9000
+    Value: 5900
+  - Key: 9300
+    Value: 5900
+  - Key: 11000
+    Value: 6750
+  - Key: 11800
+    Value: 6800
+  - Key: 15000
+    Value: 6800
+  - Key: 16000
+    Value: 7100
+  - Key: 20000
+    Value: 7100
+  - Key: 25000
+    Value: 7100
+  - Key: 30000
+    Value: 7300
+  - Key: 35000
+    Value: 7300
+ForwardDecel:
+  - Key: 0
+    Value: -8000
+  - Key: 2000
+    Value: -7000
+  - Key: 4000
+    Value: -6000
+  - Key: 6000
+    Value: -5000
+  - Key: 18000
+    Value: -4000
+BackwardAccel:
+  - Key: 0
+    Value: -5000
+  - Key: 3000
+    Value: -5000
+  - Key: 6000
+    Value: -5000
+  - Key: 10000
+    Value: -5500
+  - Key: 12000
+    Value: -5500
+BackwardDecel:
+  - Key: 0
+    Value: 16000
+  - Key: 2000
+    Value: 16000
+  - Key: 4000
+    Value: 16000
+  - Key: 6000
+    Value: 15000
+  - Key: 10000
+    Value: 15000

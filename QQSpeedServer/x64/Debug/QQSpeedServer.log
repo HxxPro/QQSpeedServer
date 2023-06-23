@@ -1,0 +1,58 @@
+﻿  CachePlayer.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\CachePlayer.cpp(44,36): warning C4267: “初始化”: 从“size_t”转换到“UINT”，可能丢失数据
+  CacheUser.cpp
+  Event.cpp
+  EventChatRoomList.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\EventChatRoomList.cpp(54,72): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  EventHandler.cpp
+  EventGetUin.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\EventGetUin.cpp(23,99): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  EventLogin.cpp
+  EventLogout.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\EventLogout.cpp(21,98): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  EventRegister.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\EventRegister.cpp(23,99): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  EventWorldInfo.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\EventWorldInfo.cpp(442,72): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  GameServer.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\GameServer.cpp(99,34): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\GameServer.cpp(243,19): warning C4244: “=”: 从“CONNID”转换到“int”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\GameServer.cpp(291,16): warning C4244: “=”: 从“LONG_PTR”转换到“long”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\GameServer.cpp(347,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\GameServer.cpp(511,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  Message.cpp
+  mMySQL.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\mMySQL.cpp(682): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\mMySQL.cpp(691,40): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\mMySQL.cpp(694,40): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\mMySQL.cpp(704,24): warning C4244: “=”: 从“uint64_t”转换到“UINT”，可能丢失数据
+  QQServer.cpp
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\QQServer.cpp(67,10): warning C4244: “=”: 从“__int64”转换到“WORD”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\QQServer.cpp(114,19): warning C4244: “=”: 从“CONNID”转换到“int”，可能丢失数据
+D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\QQSpeedServer\QQServer.cpp(157,16): warning C4244: “=”: 从“LONG_PTR”转换到“long”，可能丢失数据
+  Utils.cpp
+  EventWorld.cpp
+  正在生成代码...
+  tea.c
+yaml-cppd.lib(exceptions.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(exceptions.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(memory.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(memory.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(node_data.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(node_data.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(convert.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(convert.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(parse.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(parse.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(nodebuilder.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(nodebuilder.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(parser.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(parser.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(directives.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(directives.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(scanner.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(scanner.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(singledocparser.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(singledocparser.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(regex_yaml.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(regex_yaml.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(stream.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(stream.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(simplekey.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(simplekey.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(scantoken.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(scantoken.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(tag.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(tag.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(depthguard.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(depthguard.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(null.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(null.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(scanscalar.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(scanscalar.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(scantag.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(scantag.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+yaml-cppd.lib(exp.obj) : warning LNK4099: 未找到 PDB“”(使用“yaml-cppd.lib(exp.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  QQSpeedServer.vcxproj -> D:\Project\PrivateServer\QQSpeed\Server_Source\QQSpeedServer\QQSpeedServer\x64\Debug\QQSpeedServer.exe

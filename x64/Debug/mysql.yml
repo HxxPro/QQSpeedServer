@@ -1,0 +1,12 @@
+MySQL:
+  #数据库地址
+  Host: "192.168.175.129"
+  #数据库端口
+  Port: 3306
+  #数据库账号
+  User: "root"
+  #数据库密码
+  Pass: "root"
+  #数据库名称
+  db_User: "g_qqspeed_user"
+  db_Player: "g_qqspeed_player"
